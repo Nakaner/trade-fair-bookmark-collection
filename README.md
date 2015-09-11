@@ -13,6 +13,7 @@ Contributing
 ============
 You can import the .html file into your Firefox. Please use a separate browser profile (start Firefox from Shell using `firefox --ProfileManager`).
 
+Usage of Chromium/Google Chrome for contributing is not suggested.
 
 License
 =======
