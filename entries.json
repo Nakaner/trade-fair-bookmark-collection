@@ -19,10 +19,6 @@
         "name": "Maps4BW – OpenStreetMap Wiki"
       },
       {
-        "url": "http://www.bezreg-koeln.nrw.de/brk_internet/geobasis/dienste/nrwatlas/index.html",
-        "name": "NRW-Atlas"
-      },
-      {
         "url": "http://wiki.openstreetmap.org/wiki/NRW-Atlas",
         "name": "NRW-Atlas – OpenStreetMap Wiki"
       }
@@ -32,7 +28,7 @@
     "name": "Blog",
     "members": [
       {
-        "url": "https://blog.openstreetmap.de/wp-admin/",
+        "url": "http://blog.openstreetmap.de/",
         "name": "OSMBlog"
       }
     ]
@@ -66,15 +62,19 @@
       },
       {
         "url": "https://lists.openstreetmap.org/pipermail/talk-de/",
-        "name": "Talk-de Archive"
+        "name": "Mailingliste Talk-de"
       },
       {
         "url": "http://wiki.openstreetmap.org/wiki/Current_events",
         "name": "Terminkalender im OpenStreetMap-Wiki"
       },
       {
+        "url": "http://lists.openstreetmap.de/",
+        "name": "deutsche lokale Mailinglisten"
+      },
+      {
         "url": "https://lists.openstreetmap.org/pipermail/talk/",
-        "name": "The talk Archives"
+        "name": "Mailingliste Talk"
       }
     ]
   },
@@ -82,12 +82,21 @@
     "name": "Daten beziehen",
     "members": [
       {
-        "url": "http://download.geofabrik.de/europe.html",
-        "name": "Geofabrik Downloads Europa"
+        "url": "http://download.geofabrik.de/",
+        "name": "Geofabrik Downloads"
       },
       {
-        "url": "http://overpass-turbo.eu/",
+        "url": "https://overpass-turbo.eu/",
         "name": "Overpass Turbo"
+      },
+      {
+        "url": "https://overpass-api.de/",
+        "name": "Overpass-API Übersichtsseite"
+      },
+      {
+        "url": "http://wiki.openstreetmap.org/wiki/Overpass_API/Overpass_QL",
+        "name": "Overpass QL Language Reference",
+        "tags": "dokumentation,documentation,overpass"
       }
     ]
   },
@@ -99,15 +108,15 @@
         "name": "Fieldpapers"
       },
       {
-        "url": "http://wiki.openstreetmap.org/wiki/ID",
+        "url": "https://wiki.openstreetmap.org/wiki/ID",
         "name": "iD – OpenStreetMap Wiki"
       },
       {
-        "url": "http://wiki.openstreetmap.org/wiki/Imagery_Offset_Database",
+        "url": "https://wiki.openstreetmap.org/wiki/Imagery_Offset_Database",
         "name": "Imagery Offset Database - OpenStreetMap Wiki"
       },
       {
-        "url": "http://josm.openstreetmap.de/",
+        "url": "https://josm.openstreetmap.de/",
         "name": "JOSM"
       },
       {
@@ -115,19 +124,15 @@
         "name": "Keypad-Mapper-3 ohne Logging"
       },
       {
-        "url": "http://osmpad.oaky.de/Android.aspx",
-        "name": "OsmPad"
-      },
-      {
-        "url": "http://wiki.openstreetmap.org/wiki/OSMtracker_(Android)",
+        "url": "https://wiki.openstreetmap.org/wiki/OSMtracker_(Android)",
         "name": "OSMtracker (Android) – OpenStreetMap Wiki"
       },
       {
-        "url": "http://wiki.openstreetmap.org/wiki/Potlatch_2",
+        "url": "https://wiki.openstreetmap.org/wiki/Potlatch_2",
         "name": "Potlatch 2 – OpenStreetMap Wiki"
       },
       {
-        "url": "http://wiki.openstreetmap.org/wiki/Vespucci",
+        "url": "https://wiki.openstreetmap.org/wiki/Vespucci",
         "name": "Vespucci – OpenStreetMap Wiki"
       },
       {
@@ -139,7 +144,7 @@
         "name": "YAPIS • Yet Another Point of Interest Submitter"
       },
       {
-        "url": "http://github.pavie.info/yohours/",
+        "url": "http://projets.pavie.info/yohours/",
         "name": "YoHours"
       },
       {
@@ -166,11 +171,22 @@
     "members": [
       {
         "url": "http://osmand.net/",
-        "name": "OsmAnd"
+        "name": "OsmAnd",
+        "tags": "Android, iOS"
       },
       {
         "url": "http://www.telenav.com/products/scout/",
-        "name": "Scout"
+        "name": "Scout",
+        "tags": "iOS, Android"
+      },
+      {
+        "url": "https://maps.me/",
+        "name": "MAPS.ME",
+        "tags": "Android, iOS"
+      },
+      {
+        "url": "http://wiki.openstreetmap.org/wiki/Maps.Me",
+        "name": "MAPS.ME – OpenStreetMap-Wiki"
       }
     ]
   },
@@ -180,10 +196,6 @@
       {
         "url": "http://fred.dev.openstreetmap.org/coolnamegoeshere/#/workbench",
         "name": "Cool Name Goes Here"
-      },
-      {
-        "url": "http://datenkueche.com/osmlive/",
-        "name": "OSM LIVE - Open Street Map Live View"
       },
       {
         "url": "http://osmlab.github.io/show-me-the-way/",
@@ -211,24 +223,12 @@
         "name": "Auswertungen",
         "members": [
           {
-            "url": "http://www.itoworld.com/map/130#lat=51.82072988943501&lon=12.236292684154161&zoom=12",
-            "name": "ITO Edits der letzten 7 Tage Dessau"
-          },
-          {
             "url": "http://www.itoworld.com/map/9",
-            "name": "ITO Map - Gebäude und Adressen Zabergäu"
-          },
-          {
-            "url": "http://www.itoworld.com/map/130#lat=49.07867083550417&lon=9.072917589164254&zoom=12",
-            "name": "ITO Map - Recent edits: last 7 days Zabergäu"
+            "name": "ITO Map - Gebäude und Adressen"
           },
           {
             "url": "http://www.itoworld.com/product/data/ito_map/main",
             "name": "ITO-Map"
-          },
-          {
-            "url": "http://www.netzwolf.info/kartografie/karten/nhn",
-            "name": "Punkte mit DHHN92-Höhe (ele:NHN)"
           }
         ]
       },
@@ -236,8 +236,9 @@
         "name": "Druckdienste",
         "members": [
           {
-            "url": "http://printmaps-osm.de:8080/menue?auswahl=karte",
-            "name": "Printmaps"
+            "url": "http://print.mapwebbing.eu/printcomposer",
+            "name": "mapwebbing Print Composer",
+            "tags": "Kartendruck, gedruckt, Drucken, Druck"
           }
         ]
       },
@@ -255,6 +256,11 @@
           {
             "url": "http://gps.maroufi.net/mapdownload.shtml",
             "name": "Wander-Mapper von unixasket"
+          },
+          {
+            "url": "http://wiki.openstreetmap.org/wiki/DE:OSM_Map_On_Garmin/Download",
+            "name": "OSM Map on Garmin Download",
+            "tags": "Garmin, Download, Liste"
           }
         ]
       },
@@ -298,7 +304,8 @@
         "members": [
           {
             "url": "http://www.marcusbleil.de/m/",
-            "name": "ATM Map"
+            "name": "ATM Map",
+            "tags": "Geldautomat"
           },
           {
             "url": "http://osm.lyrk.de/fahrkartenautomaten/#14/48.6943/9.1840",
@@ -325,20 +332,12 @@
             "name": "Unterkunftskarte"
           },
           {
-            "url": "http://opensciencemap.org/map/#&scale=15&rot=0&tilt=70&lat=48.693&lon=9.186",
-            "name": "OpenScienceMap"
-          },
-          {
             "url": "http://mijndev.openstreetmap.nl/~ligfietser/fiets/index.html",
             "name": "Bicycle tags on OSM"
           },
           {
             "url": "http://beta.map1.eu/#zoom=11&lat=48.68034&lon=9.26539&layers=BT",
             "name": "Europa-Karte map1.eu"
-          },
-          {
-            "url": "http://francetopo.fr/?map_x=1142781.4890112&map_y=6903417.6550054&map_zoom=8&map_visibility_Fond%20carte%20topographique%20%5Blecture%5D=true&map_opacity_Fond%20carte%20topographique%20%5Blecture%5D=1&map_visibility_Fond%20vierge=false&map_opacity_Fond%20vierge=1&map_visibility_Calque%20isohypses=true&map_opacity_Calque%20isohypses=1&map_visibility_Calque%20carte%20topographique%20%5Blecture%5D=true&map_opacity_Calque%20carte%20topographique%20%5Blecture%5D=1&map_visibility_Calque%20randoroutes=false&map_opacity_Calque%20randoroutes=1&map_visibility_Circuits%20de%20randonn%C3%A9e%20cycliste=false&map_opacity_Circuits%20de%20randonn%C3%A9e%20cycliste=1&map_visibility_Calque%20whitewater=false&map_opacity_Calque%20whitewater=1&map_visibility_Dessin%20vectoriel=true&map_opacity_Dessin%20vectoriel=1&map_visibility_Grille%20g%C3%A9od%C3%A9sique=false&map_opacity_Grille%20g%C3%A9od%C3%A9sique=1&map_visibility_POI%20Transports=false&map_opacity_POI%20Transports=1&map_visibility_POI%20Tourisme=false&map_opacity_POI%20Tourisme=1&map_visibility_POI%20Services%20Publics=false&map_opacity_POI%20Services%20Publics=1&map_visibility_POI%20Services%20Financiers=false&map_opacity_POI%20Services%20Financiers=1&map_visibility_POI%20S%C3%A9curit%C3%A9=false&map_opacity_POI%20S%C3%A9curit%C3%A9=1&map_visibility_POI%20Sant%C3%A9=false&map_opacity_POI%20Sant%C3%A9=1&map_visibility_POI%20Restauration=false&map_opacity_POI%20Restauration=1&map_visibility_POI%20Patrimoine=false&map_opacity_POI%20Patrimoine=1&map_visibility_POI%20Loisirs=false&map_opacity_POI%20Loisirs=1&map_visibility_POI%20H%C3%A9bergements=false&map_opacity_POI%20H%C3%A9bergements=1&map_visibility_POI%20%C3%89ducation=false&map_opacity_POI%20%C3%89ducation=1&map_visibility_POI%20Commerces=false&map_opacity_POI%20Commerces=1&map_visibility_POI%20Artisans=false&map_opacity_POI%20Artisans=1&map_visibility_POI%20Arbres=false&map_opacity_POI%20Arbres=1&map_visibility_Tous%20les%20POIs=false&map_opacity_Tous%20les%20POIs=1&map_visibility_Panneaux%20d%27agglom%C3%A9ration=false&map_opacity_Panneaux%20d%27agglom%C3%A9ration=1&map_visibility_Administratif=false&map_opacity_Administratif=1&map_visibility_Limitations%20de%20vitesse=false&map_opacity_Limitations%20de%20vitesse=1&map_visibility_Voies%20non%20nomm%C3%A9es=false&map_opacity_Voies%20non%20nomm%C3%A9es=1&map_visibility_Toponymes=false&map_opacity_Toponymes=1",
-            "name": "FranceTopo Zabergäu"
           },
           {
             "url": "http://brewpubs.openstreetmap.de/",
@@ -352,10 +351,6 @@
             "url": "http://hiking.lonvia.de/de/",
             "name": "Lonvia&#39;s Weltwanderkarte",
             "tags": "Wandern, Reiten, Radfahren"
-          },
-          {
-            "url": "http://www.mydanmark.de/osm/#51.000000|11.388000|11|B",
-            "name": "MAP-URL-Umwandler"
           },
           {
             "url": "http://openfiremap.org/?zoom=15&lat=48.65782&lon=9.05637&layers=B0000TF",
@@ -378,32 +373,12 @@
             "name": "OpenRailwayMap"
           },
           {
-            "url": "http://openskimap.org/",
-            "name": "OpenSkiMap"
-          },
-          {
             "url": "http://www.opensnowmap.org/",
             "name": "OpenSnowMap"
           },
           {
             "url": "http://www.openstreetmap.org/",
             "name": "OpenStreetMap"
-          },
-          {
-            "url": "http://www.openstreetmap.org/?lat=51.81&lon=12.2397&zoom=12&layers=M",
-            "name": "OpenStreetMap Dessau"
-          },
-          {
-            "url": "http://www.openstreetmap.org/?lat=49.0044&lon=8.4029&zoom=13&layers=M",
-            "name": "OpenStreetMap Karlsruhe"
-          },
-          {
-            "url": "http://www.openstreetmap.org/?lat=49.0856&lon=9.051&zoom=12&layers=M",
-            "name": "OpenStreetMap Zabergäu"
-          },
-          {
-            "url": "http://opentopomap.org/#map=5/49.000/10.000",
-            "name": "OpenTopoMap"
           },
           {
             "url": "http://opentopomap.org/",
@@ -426,16 +401,9 @@
             "name": "Veggiekarte"
           },
           {
-            "url": "http://osmcamera.tk/",
-            "name": "Videokamera-Karte"
-          },
-          {
-            "url": "http://cycling.waymarkedtrails.org/de/?zoom=12&lat=48.69526&lon=9.15144&hill=0#",
-            "name": "Waymarked Trails - Radwege"
-          },
-          {
-            "url": "http://hiking.waymarkedtrails.org/de/?zoom=13&lat=48.70132&lon=9.20654&hill=0#",
-            "name": "Waymarked Trails - Wanderwege"
+            "url": "https://kamba4.crux.uberspace.de/",
+            "name": "Surveillance under Surveillance",
+            "tags": "Überwachungskamera, Kamera"
           },
           {
             "url": "http://demo.f4map.com/#lat=49.0108994&lon=8.4143935&zoom=17&camera.phi=-0.007",
@@ -464,7 +432,7 @@
         "name": "Navit-Karten erstellen"
       },
       {
-        "url": "http://www.tappenbeck.net/osm/maps/deu/index.php?id=1032",
+        "url": "http://be2art.de/xmasmap/ ",
         "name": "XMAS bei OpenStreetMap"
       }
     ]
@@ -482,32 +450,20 @@
     "name": "Nachschlagen",
     "members": [
       {
-        "url": "http://wiki.openstreetmap.org/wiki/Overpass_API/Overpass_QL",
-        "name": "Doku Overpass API/Overpass QL"
-      },
-      {
         "url": "http://wiki.openstreetmap.org/wiki/List_of_OSM-based_services",
         "name": "List of OSM-based services – OpenStreetMap Wiki"
       },
       {
         "url": "http://taginfo.openstreetmap.org/",
-        "name": "OSM-Taginfo"
+        "name": "Taginfo"
       },
       {
         "url": "http://hdyc.neis-one.org/",
-        "name": "OSM: How did you contribute?"
+        "name": "How did you contribute?"
       },
       {
-        "url": "http://osmstats.altogetherlost.com/",
+        "url": "http://osmstats.neis-one.org/",
         "name": "OSMstats"
-      },
-      {
-        "url": "http://overpass-api.de/",
-        "name": "Overpass API Startseite"
-      },
-      {
-        "url": "http://taginfo.openstreetmap.org/",
-        "name": "OpenStreetMap Taginfo"
       }
     ]
   },
@@ -525,10 +481,6 @@
       {
         "url": "http://keepright.ipax.at/report_map.php?lang=de&ch30=1&ch40=1&ch50=1&ch60=1&ch70=1&ch90=1&ch100=1&ch110=1&ch120=1&ch130=1&ch150=1&ch160=1&ch170=1&ch180=1&ch191=1&ch192=1&ch193=1&ch194=1&ch195=1&ch196=1&ch197=1&ch198=1&ch201=1&ch202=1&ch203=1&ch204=1&ch205=1&ch206=1&ch207=1&ch208=1&ch210=1&ch220=1&ch231=1&ch232=1&ch270=1&ch281=1&ch282=1&ch283=1&ch284=1&ch285=1&ch291=1&ch292=1&ch293=1&ch294=1&ch311=1&ch312=1&ch313=1&ch320=1&ch350=1&ch370=1&ch380=1&ch401=1&ch402=1&ch411=1&ch412=1&ch413=1&number_of_tristate_checkboxes=8&highlight_error_id=0&highlight_schema=0&lat=51.83105&lon=12.22719&zoom=14&show_ign=1&show_tmpign=1&layers=B0T&ch=0%2C30%2C40%2C50%2C60%2C70%2C90%2C100%2C110%2C120%2C130%2C150%2C160%2C170%2C180%2C191%2C192%2C193%2C194%2C195%2C196%2C197%2C198%2C201%2C202%2C203%2C204%2C205%2C206%2C207%2C208%2C210%2C220%2C231%2C232%2C270%2C281%2C282%2C283%2C284%2C285%2C291%2C292%2C293%2C294%2C311%2C312%2C313%2C320%2C350%2C370%2C380%2C401%2C402%2C411%2C412%2C413%2C20%2C300%2C360%2C390",
         "name": "keep right! Dessau"
-      },
-      {
-        "url": "http://resultmaps.neis-one.org/osm-discussions#2/34.9/9.0",
-        "name": "Latest OSM Changeset Discussions"
       },
       {
         "url": "http://resultmaps.neis-one.org/osm-discussions?c=Germany#6/51.727/9.338",
@@ -572,7 +524,8 @@
       },
       {
         "url": "http://map.comlu.com/",
-        "name": "Turn Restrictions"
+        "name": "Turn Restrictions",
+        "tags": "Abbiegebeschränkungen, Abbiegeverbote"
       },
       {
         "url": "http://zverik.osm.rambler.ru/whodidit/",
@@ -580,7 +533,7 @@
       },
       {
         "url": "http://simon04.dev.openstreetmap.org/whodidit/",
-        "name": "WHODIDIT Simon Poole"
+        "name": "WHODIDIT Simon04"
       },
       {
         "url": "http://resultmaps.neis-one.org/newestosmfeed.php?lon=11.33298&lat=50.98521&deg=0.5",
@@ -594,6 +547,14 @@
       {
         "url": "http://wiki.openstreetmap.org/wiki/CartoCSS",
         "name": "CartoCSS – OpenStreetMap Wiki"
+      },
+      {
+        "url": "https://carto.com/docs/carto-engine/cartocss/properties/",
+        "name": "CartoCSS-Dokumentation"
+      },
+      {
+        "url": "https://github.com/kosmtik/kosmtik",
+        "name": "Kosmtik"
       },
       {
         "url": "http://geoserver.org/",
@@ -658,10 +619,6 @@
         "name": "Imposm"
       },
       {
-        "url": "http://wiki.openstreetmap.org/wiki/Osm2pgsql",
-        "name": "Osm2pgsql – OpenStreetMap Wiki"
-      },
-      {
         "url": "https://github.com/openstreetmap/osm2pgsql",
         "name": "osm2pgsql · GitHub"
       },
@@ -684,6 +641,15 @@
       {
         "url": "http://wiki.openstreetmap.org/wiki/Osmupdate",
         "name": "Osmupdate – OpenStreetMap Wiki"
+      },
+      {
+        "url": "http://osmcode.org/libosmium/",
+        "name": "libosmium",
+        "tags": "Osmium Library, Osmium-Bibliothek"
+      },
+      {
+        "url": "http://osmcode.org/osmium-tool/",
+        "name": "Osmium-Tool"
       }
     ]
   },
@@ -717,10 +683,6 @@
     "name": "Weitere Tools",
     "members": [
       {
-        "url": "http://www.feuerwehr-fragen.de/strassenquiz/",
-        "name": "Feuerwehr-Strassenquiz"
-      },
-      {
         "url": "http://osmtrainroutes.bplaced.net/",
         "name": "Zuganalyse"
       }
@@ -744,6 +706,21 @@
       {
         "url": "https://wiki.openstreetmap.org/wiki/DE:Main_Page",
         "name": "OSM-Wiki (de)"
+      },
+      {
+        "url": "http://wiki.openstreetmap.org/wiki/DE:Good_practice",
+        "name": "OSM Good Practice",
+        "tags": "Regeln, gute fachliche Praxis"
+      },
+      {
+        "url": "http://wiki.openstreetmap.org/wiki/Import/Guidelines",
+        "name": "Import Guidelines",
+        "tags": "Import-Richtlinie, Richtlinie"
+      },
+      {
+        "url": "http://wiki.openstreetmap.org/wiki/Automated_Edits_code_of_conduct",
+        "name": "Automated Edits Code of Conduct",
+        "tags": "Mechanical Edit Policy"
       }
     ]
   },
