@@ -11,9 +11,16 @@ This collection is very German-centric and contains only German descriptions.
 
 Contributing
 ============
-You can import the .html file into your Firefox. Please use a separate browser profile (start Firefox from Shell using `firefox --ProfileManager`).
+You can import the .html file into your Firefox or Chromium profile. Please use a separate browser profile (start Firefox from Shell using `firefox --ProfileManager`).
 
-Usage of Chromium/Google Chrome for contributing is not suggested.
+Entries are managed in a JSON file and the HTML file for import into Firefox and Chromium is generated using a Python script.
+
+Too build the HTML file, just use the Makefile. There are very few dependencies – just Python 3.x, no extra packages.
+
+```sh
+make
+```
+
 
 License
 =======
